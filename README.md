@@ -1,11 +1,13 @@
 # Description
 
-A simple puzzle game making use of Box2D Physics engine for realistic physics simulations. It currently has 10 puzzles and some fiishing is required.
+A simple puzzle game making use of Box2D Physics engine for realistic physics simulations. It currently has 10 puzzles and some finishing is required.
 
-## Usage
+![Menu Screen](asset/Menu.png)
 
-1. Unzip the asset folder and put it's asset folder in the same directory as index.html.
+## Usage 
 
-2. Start a local web-server and access index.html from it to run the game. 
+1. Start a local web-server and access index.html from it to run the game.  
 
-3. Google Chrome Browser is recommended.
+2. Google Chrome Browser is recommended.  
+
+3. You can also play the game on your phone by installing the desired Android apk on your device.  
